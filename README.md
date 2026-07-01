@@ -105,7 +105,10 @@ shopify theme dev
 
 ### Ana Sayfa
 
-![Home](screenshots/home.png)
+![Home](screenshot/anasayfa1.png)
+![Home](screenshot/anasayfa2.png)
+![Home](screenshot/anasayfa3.png)
+
 
 ### Ürün Sayfası
 
