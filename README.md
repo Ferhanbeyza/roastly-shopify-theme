@@ -112,7 +112,7 @@ shopify theme dev
 
 ### Ürün Sayfası
 
-![Product](screenshot/katalog.png)
+![Product](screenshot/katolog.png)
 
 
 ### Sepet
