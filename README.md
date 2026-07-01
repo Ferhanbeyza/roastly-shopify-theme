@@ -1,16 +1,16 @@
-# ☕ Roastly - Premium Coffee Gear Shopify Theme
+#  Roastly - Premium Coffee Gear Shopify Theme
 
 Roastly, kahve ekipmanları ve barista aksesuarları satışına yönelik geliştirilmiş modern bir Shopify e-ticaret temasıdır. Tema, Shopify'ın Craft teması temel alınarak özelleştirilmiş; kullanıcı deneyimi, sade tasarım anlayışı ve mobil uyumluluk ön planda tutularak geliştirilmiştir.
 
 
-## 📌 Proje Hakkında
+##  Proje Hakkında
 
 Roastly; kahve severlerin ihtiyaç duyabileceği espresso makineleri, manuel demleme ekipmanları, öğütücüler ve çeşitli kahve aksesuarlarını modern bir arayüz üzerinden sunmayı amaçlayan örnek bir e-ticaret projesidir.
 
 Tema geliştirilirken Shopify Online Store 2.0 mimarisi kullanılmış ve Liquid yapısı üzerinden özelleştirmeler gerçekleştirilmiştir.
 
 
-## 🎨 Tasarım
+##  Tasarım
 
 - **Marka:** Roastly
 - **Tema:** Modern ve minimalist
@@ -20,7 +20,7 @@ Tema geliştirilirken Shopify Online Store 2.0 mimarisi kullanılmış ve Liquid
 
 Tasarım oluşturulurken geniş beyaz alanlar, okunabilir tipografi ve premium bir kullanıcı deneyimi hedeflenmiştir.
 
-## 📂 Proje Yapısı
+##  Proje Yapısı
 
 ```
 assets/
@@ -49,7 +49,7 @@ templates/
 ```
 
 
-## 🚀 Özellikler
+##  Özellikler
 
 - Responsive (Mobil uyumlu) tasarım
 - Ajax tabanlı sepet (Cart Drawer)
@@ -61,7 +61,7 @@ templates/
 - Modern ve kullanıcı dostu arayüz
 
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 - Shopify Liquid
 - HTML5
@@ -71,7 +71,7 @@ templates/
 - Shopify Online Store 2.0
 
 
-## ⚙️ Kurulum
+##  Kurulum
 
 ### Shopify CLI
 
@@ -91,7 +91,7 @@ shopify theme dev
 
 
 
-## 📱 Ekran Özellikleri
+##  Ekran Özellikleri
 
 - Ana Sayfa
 - Ürün Sayfası
@@ -101,7 +101,7 @@ shopify theme dev
 - İletişim Sayfası
 - Hakkımızda Sayfası
 
-## 📸 Ekran Görüntüleri
+##  Ekran Görüntüleri
 
 ### Ana Sayfa
 
@@ -112,8 +112,13 @@ shopify theme dev
 
 ### Ürün Sayfası
 
-![Product](screenshots/product.png)
+![Product](screenshot/katalog.png)
+
+
+### Sepet
+
+![Cart](screenshots/sepet.png)
 
 ### Koleksiyonlar
 
-![Collection](screenshots/collection.png)
+![Collection](screenshots/koleksiyonlar.png)
